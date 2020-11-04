@@ -1,7 +1,8 @@
 {
-  "name": "brilliant",
+  "name": "test_swivl",
   "version": "1.0.0",
-  "description": "start gulp",
+  "description": "swivl",
+  "homepage": "http://redsky0043.github.io/test_Swivl",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
