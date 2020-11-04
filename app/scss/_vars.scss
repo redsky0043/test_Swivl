@@ -1,0 +1,55 @@
+$color-white: #ffffff;
+$color-light-gray: #F7F9FC;
+$color-gray: #3E3F58;
+$color-gray2: #3E4056;
+$color-gray3: #ECF1F8;
+$color-red: #F05D63;
+$transition-2s: all ease 0.2s;
+$transition-3s: all ease 0.3s;
+$transition-4s: all ease 0.4s;
+$linear-gradient: linear-gradient(135deg, #ff974f 0%, #e32c75 100%);
+
+// background: #ECF1F8;
+// mix-blend-mode: normal;
+// opacity: 0.4;
+// Global Variables
+$palette-primary: $color-white;
+$palette-body: $color-light-gray;
+$palette-text: $color-gray;
+$palette-text-2: $color-gray2;
+$palette-text-background: $color-gray3;
+$palette-gradient: $linear-gradient;
+$palette-action: $color-red;
+
+//Google Fonts
+%open-sans-regular {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+%open-sans-semi-bold {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+%open-sans-bold {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+%montserrat-regular {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+%montserrat-semi-bold {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+// Font size for titles
+$font-size-title: 48px;
+
+// Font size for subtitles
+$font-size-subtitle: 18px;
+$line-height-subtitle: 30px;
